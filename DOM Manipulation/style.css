@@ -1,0 +1,16 @@
+body{
+    background-color: #efefef;
+}
+li,td{
+    margin: 5px;
+    padding: 5px;
+}
+table{
+    font-size: xx-large;
+
+}
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}

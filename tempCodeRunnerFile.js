@@ -30,15 +30,3 @@ console.log(typeof arr);
 
 
 // object
-
-let animal={
-    animalName: "cow",
-    legs : 4
-}
-
-
-console.log(animal);
-
-console.log(animal.animalName);
-
-console.log(animal["legs"]);
